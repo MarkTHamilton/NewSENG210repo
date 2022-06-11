@@ -1,4 +1,4 @@
-//Adding new feature to make unlimited pizza!!!
+//Adding optional slicing feature for pizzalovers!!!
 
 import java.util.Scanner;
 
